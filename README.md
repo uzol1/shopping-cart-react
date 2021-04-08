@@ -1,6 +1,6 @@
 
 
-# [Preview ON Netlify]https://movies-details-react.netlify.app/
+# [Preview ON Netlify](https://movies-details-react.netlify.app/)
 
 
 
