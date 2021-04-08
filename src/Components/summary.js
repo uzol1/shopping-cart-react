@@ -7,7 +7,7 @@ const Summary = ({ items, getSum, sum, total }) => {
 
     useEffect(() => {
         getSum(items)
-    }, [items])
+    }, [items,getSum])
 
     return (
         <React.Fragment>
